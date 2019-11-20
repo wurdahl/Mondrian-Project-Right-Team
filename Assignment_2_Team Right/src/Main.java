@@ -4,7 +4,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 public class Main {
-
+    //THIS TEAM IS GARBAGE --> SEE @RDOUGHTY10 on github for a better version
     private static final int FRAME_HEIGHT = 600;
     private static final int FRAME_WIDTH = 1100;
 
